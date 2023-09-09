@@ -1,12 +1,12 @@
 # Credit-Card-Default-Prediction
 
-Project Type - Classification
+**Project Type -** Classification
 
-Contribution - Individual
+**Contribution -** Individual
 
-Presented By- Aditya Singh
+**Presented By -** Aditya Singh
 
-Project Summary -
+**Project Summary -**
 
 The project focuses on predicting credit card payment defaults among customers in Taiwan. Rather than a simple binary classification, the emphasis is on estimating the probability of default. This approach provides a more nuanced understanding of credit risk, enhancing risk management practices.
 
